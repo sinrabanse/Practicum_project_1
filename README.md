@@ -2,6 +2,7 @@
 My first project from Practicum course
 
 Project Description
+
 In this project, I'll compare the music preferences of the cities of Springfield and Shelbyville. I'll look at real Yandex.Music data to test the hypotheses below and compare user behavior for these two cities.
 
 # Hypotheses

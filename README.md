@@ -16,16 +16,10 @@ In this project, I'll compare the music preferences of the cities of Springfield
 The data is stored in the file music_project_en.csv
 
 ## Description of columns:
-'userID' — user identifier
-
-'Track' — track title
-
-'artist' — artist's name
-
-'genre' - genre
-
-'City' — user's city
-
-'time' — the exact time the track was played
-
+'userID' — user identifier<br/>
+'Track' — track title<br/>
+'artist' — artist's name<br/>
+'genre' - genre<br/>
+'City' — user's city<br/>
+'time' — the exact time the track was played<br/>
 'Day' — day of the week

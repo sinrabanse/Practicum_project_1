@@ -1,9 +1,9 @@
 # Practicum_project_1
-My first project from Practicum course
+My first project from Practicum course. "Python Fundamentals"
 
 What was used in the project: Python, Jupyter notebook. Libraries: pandas.
 
-Project Description
+# Project Description
 
 In this project, I'll compare the music preferences of the cities of Springfield and Shelbyville. I'll look at real Yandex.Music data to test the hypotheses below and compare user behavior for these two cities.
 
